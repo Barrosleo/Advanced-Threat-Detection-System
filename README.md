@@ -17,7 +17,7 @@ This project is an Advanced Threat Detection System that uses machine learning t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Advanced-Threat-Detection-System.git
+    git clone https://github.com/Barrosleo/Advanced-Threat-Detection-System.git
     ```
 2. Navigate to the project directory:
     ```bash
